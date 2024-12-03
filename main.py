@@ -15,7 +15,7 @@ def rollDice():
     result = [random.randint(1, 6) for i in range(numDice)]
     print("Results:", result)
 
-    return input("\nDo you want to roll again? (Yes or No): ").strip().lower()
+    return input("\nDo you want to roll again? (Yes or No): ")
 
 def main():
     print("Welcome to the Dice Rolling game")
