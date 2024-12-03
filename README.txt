@@ -14,4 +14,4 @@ GitHub Repository:
 https://github.com/dkabduli/RepoForA4.git
 
 Docker Hub Image:
-https://hub.docker.com/repository/docker/ykabduli/dice-rolling-game/general
+https://github.com/dkabduli/RepoForA4.git
